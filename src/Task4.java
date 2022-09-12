@@ -5,6 +5,7 @@ public class Task4 {
         System.out.println();
         System.out.println("original string: " + str);
         System.out.println();
+
         System.out.println("replaced string: " + replaceString(str));
         System.out.println();
         System.out.println("Starts with: " + checkStartsWith(str, "test"));

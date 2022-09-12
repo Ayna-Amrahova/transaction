@@ -11,6 +11,8 @@ public class Task4 {
         System.out.println();
         System.out.println("Substring: " + substring(str, 2, 5));
         System.out.println();
+
+
         //29
         System.out.println("To lowerCase: " + str.toLowerCase());
         System.out.println();
